@@ -1,4 +1,4 @@
-## Description of all data sets above and informative documents
+## Description of all data sets and informative documents
 
 __ABV_SourceQuestionnaire_ENG_2018-2019.pdf__ - Arab Barometer Full Questionnaire
 
